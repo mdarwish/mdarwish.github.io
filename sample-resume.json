@@ -1,0 +1,580 @@
+{
+    "basics": {
+        "name": "Mahmoud Darwish",
+        "label": "Information Technology Evangelist",
+        "picture": "",
+        "email": "mdarwish1970@gmail.com",
+        "phone": "+1.519.697.9294",
+        "website": "https://www.linkedin.com/in/mdarwish70/",
+        "summary": "<ul><li>20+ years of IT services working with various business and IT folks in government and financial sectors to implement business deriven Portals the deliver modern/innovative self-service channels.</li><li>Implemented revolutionary digital innovations based on industry leading Web Content Management platforms.</li><li>My PMP, ITIL, and TOGAF knowledge enables me to develop complete view of the enterprise information spectrum and how these frameworks work together.</li><li>Sound experience of J2EE application design/development and MVC patterns with strong exposure to Spring, Oracle ADF, WebCenter Content/Portal.</li><li>Strong contributor at any stage of SDLC leveraging deep technical and business understanding focused on financial industry.</li></ul>",
+        "location": {
+            "address": "",
+            "postalCode": "N6J 2C7",
+            "city": "London",
+            "countryCode": "CA",
+            "region": ""
+        },
+        "profiles": [{
+            "network": "linkedin",
+            "username": "mdarwish70",
+            "url": "https://www.linkedin.com/in/mdarwish70/"
+        }]
+    },
+    "work": [{
+            "company": "Diebold Nixdorf",
+            "position": "Technical Lead",
+            "website": "https://www.dieboldnixdorf.com",
+            "startDate": "Jun 2016-13",
+            "summary": "",
+            "highlights": [
+                "Assists in planning and coordinating work team and may lead a group of application developers",
+                "Takes an active role in the requirements-gathering process",
+                "Work closely with other team members and Project Managers to understand product requirements and translate them into software solutions",
+                "Coordinates and/or handles complex application features and technical designs",
+                "Is primary liaison between the technical project staff and Project Managers and stays intimately aware of all project details",
+                "Handles complex application features and technical designs",
+                "Required to mentor/train new development staff"
+            ],
+            "location": {
+                "address": "",
+                "postalCode": "N6B 2L5",
+                "city": "London",
+                "countryCode": "CA",
+                "region": ""
+            },
+            "endDate": "Nov 2017-28",
+            "mainSkills": ["ATM Software", "Software Development", "Software Testing"],
+            "softSkills": ["Problem Solving", "Fast Learning"],
+            "techSkills": ["TOGAF", "ITIL", "Visual Studio", "HTML5", "Javascrip", "CSS", "Angular", "C++", "Elasticsearch", "VMWare", "Jenkins", "PTC", "JIRA", "GIT"],
+            "projects": [{
+                    "name": "Network Solutions Terminal Software Product Development and Support",
+                    "startDate": "Jun 2016-13",
+                    "languages": ["C++", "Javascript", "HTML", "CSS", "JSON", "ISO-8583"],
+                    "tools": ["Visual Studio", "WebStorm", "PTC", "Eclipse", "Virtual Box"],
+                    "capacities": ["Developer"]
+                },
+                {
+                    "name": "ATM Log parsing, analysis, and visualization",
+                    "startDate": "Jun 2016-13",
+                    "languages": ["Python", "Javascript", "NoSQL", "JSON", "ISO-8583"],
+                    "tools": ["Elasticsearch", "Logstash", "Kibana", "D3"],
+                    "capacities": ["Architect", "Developer", "Analyst"]
+                }
+            ]
+        },
+        {
+            "company": "Tata Consultancy Services",
+            "position": "Solution Architect",
+            "website": "https://www.tcs.com",
+            "startDate": "Sep 2013-01",
+            "summary": "",
+            "highlights": [
+                "End to End Architecture for a net new digital Direct Insurance Portal leveraging wide spectrum of modern technologies, integrating with Guidewire Modern Insurance Suite were the core technology pillars for the target architecture.",
+                "Consultancy services for a leading Insurance carrier to evaluate and score minimum of 3 digital platforms against defined priorities and deliver extensive evaluation report with recommendations and roadmap.",
+                "Website platform transition to Oracle WebCenter deployment, migrating from old WCM to WebCenter Content, building the Portal framework, and deploying WebCenter suite across 5 environments 2 of which follows Oracle Enterprise Deployment Guidelines. Configured WebCenter content types & profiles, element & region definitions, and workflow. Implementing Information Architecture in terms of folder structure, metadata model, navigation, contribution model...etc. Implemented responsive page and display templates, and navigation based on HTML5 and CSS3 using Portal framework and content services.",
+                "Delivered high quality documentation that have been taken as benchmark for other projects."
+            ],
+            "location": {
+                "address": "",
+                "postalCode": "@43.6534709,-79.390407",
+                "city": "Toronto",
+                "countryCode": "CA",
+                "region": ""
+            },
+            "endDate": "Jun 2016-10",
+            "mainSkills": ["Enterprise Architecture", "Cloud Architecture", "Software Development", "Continuous Integration", "Content Management", "Enterprise Portals"],
+            "softSkills": ["Presentation", "Communication", "Problem Solving", "Fast Learning"],
+            "techSkills": ["TOGAF", "ITIL", "Oracle WebCenter Suite", "Oracle DB", "JDeveloper", "Eclipse", "HTML5", "Javascrip", "CSS", "Angular", "VMWare", "Oracle Linux", "Ubuntu", "Spring framework", "Maven", "Jenkins", "Dockers", "CloudStack", "AWS", "Virtual Box", "Elasticsearch", "Rally", "JIRA", "GIT", "Dimentions", "ALM"],
+            "projects": [{
+                    "name": "WSIB Web Renewal",
+                    "startDate": "Sep 2013-01",
+                    "languages": ["Java", "Javascript", "HTML", "JSON"],
+                    "tools": ["Oracle WebCenter Suite", "JDeveloper", "ADF", "JSF", "Oracle Enterprise Linux", "Virtual Box", "Excel", "Visio"],
+                    "capacities": ["Architect", "Developer"]
+                },
+                {
+                    "name": "Canada Life Content Management Selection",
+                    "startDate": "May 2014-01",
+                    "languages": ["UML"],
+                    "tools": ["Wordpress", "IBM Content", "Drupal", "Excel", "Visio"],
+                    "capacities": ["Analyst"]
+                },
+                {
+                    "name": "AVIVA Online Quote",
+                    "startDate": "Oct 2014-01",
+                    "languages": ["Java", "Javascript", "JSON"],
+                    "tools": ["Eclipse", "Spring Framework", "Maven", "Jenkins", "GIT", "Virtual Box", "Excel", "Visio"],
+                    "capacities": ["Analyst"]
+                },
+                {
+                    "name": "Sunlife Batch Migration",
+                    "startDate": "Apr 2015-01",
+                    "languages": ["Javascript", "Python", "JSON", "HTML", "NoSQL"],
+                    "tools": ["Elasticsearch", "Logstash", "Kibana", "Excel", "D3", "Excel", "Visio"],
+                    "capacities": ["Architect", "Analyst"]
+                },
+                {
+                    "name": "Sunlife Annuity Renewal",
+                    "startDate": "Nov 2015-01",
+                    "languages": ["Java", "Javascript", "HTML", "CSS", "JSON"],
+                    "tools": ["Eclipse", "Dimentions", "ALM", "Weblogic", "ORM", "DB2", "Excel", "Visio"],
+                    "capacities": ["Architect", "Analyst"]
+                }
+            ]
+        },
+        {
+            "company": "Yellow Pencil",
+            "position": "WebCenter Practice Lead",
+            "website": "https://yellowpencil.com/",
+            "startDate": "Jul 2012-22",
+            "summary": "Leading Oracle WebCenter Portal and J2EE Center Of Excellency in terms architecture design, delivery methodology, team building, implementations.",
+            "highlights": [
+                "Implemented WebCenter Spaces for a leading Oracle partner to support their sales and marketing team collaboration.",
+                "End-to-end management of Internet and Enterprise Content Management projects delivering Oracle WebCenter Portal and Content solutions.",
+                "Leveraged OUM methodology for Oracle WebCenter Portal and Content implementations.",
+                "Led Responsive Web Design projects for City of Surrey and Wharton School of Business using OpenText RedDot WCM.",
+                "Led the transition of newestpress.com from Joomla to Drupal WCM.",
+                "Contributed to PMO framework, PM methodology, and Quality process."
+            ],
+            "location": {
+                "address": "",
+                "postalCode": "",
+                "city": "Edmonton",
+                "countryCode": "CA",
+                "region": ""
+            },
+            "endDate": "Aug 2013-30",
+            "mainSkills": ["Content Management", "Project Mgmt", "Business Analysis", "Quality Assurance & Control"],
+            "softSkills": ["Communication", "Negotiation", "Leadership", "Problem Solving", "Fast Learning"],
+            "techSkills": ["PMP", "ITIL", "MS Project", "Oracle ADF", "WebCenter Portal/Content", "JSP", "JQuery", "Bootstrap", "OpenText WSM", "SQL Server", "VMWare", "Drupal", "Selenium"],
+            "projects": [{
+                    "name": "WebCenter Spaces Implementation",
+                    "startDate": "Oct 2012-22",
+                    "languages": ["Java", "HTML", "CSS", "Javascript", "JSON"],
+                    "tools": ["Oracle WebCenter Suite", "JDeveloper", "Oracle ADF", "JSF", "Weblogic", "Virtual Box", "Excel", "Visio"],
+                    "capacities": ["Analyst", "Architect", "Developer"]
+                },
+                {
+                    "name": "City of Surry Portal Responsive Transformation",
+                    "startDate": "Jul 2012-22",
+                    "languages": ["HTML", "CSS", "Javascript", "JSON", "NoSQL"],
+                    "tools": ["RedDot", "Eclipse", "Google Analytics", "Excel", "Visio"],
+                    "capacities": ["Manager"]
+                }
+            ]
+        },
+        {
+            "company": "London Life",
+            "position": "Project Manager",
+            "website": "https://www.londonlife.com",
+            "startDate": "Dec 2010-01",
+            "summary": "Managed the transition of Individual Retirement & Investment Services (IRIS) portfolio downstream systems from old outdated versions of document composition platforms (Compuset and DOC1) to the latest version of DOC1 production system.",
+            "highlights": ["Project involved many improvements to the existing statements, net new production of client confirms, integration with investment management system, and redesigning/optimizing the ETL integration graphs."],
+            "location": {
+                "address": "",
+                "postalCode": "",
+                "city": "London",
+                "countryCode": "CA",
+                "region": ""
+            },
+            "endDate": "Nov 2011-01",
+            "mainSkills": ["Document Composition", "Project Mgmt", "Quality Assurance & Control"],
+            "softSkills": ["Leadership", "Communication", "Negotiation", "Problem Solving", "Fast Learning", "Cooperation"],
+            "techSkills": ["PMP", "ITIL", "MS Project", "Excel", "Visio", "Primavera"],
+            "projects": [{
+                "name": "Compuset Migration to DOC1",
+                "startDate": "Dec 2010-01",
+                "languages": ["Java", "XML"],
+                "tools": ["Primavera", "MS Project", "Excel", "Visio"],
+                "capacities": ["Manager", "Architect", "Developer"]
+            }]
+        },
+        {
+            "company": "NCR",
+            "position": "e-Business Technical Project Manager",
+            "website": "http://www.ncr.com",
+            "startDate": "Dec 2007-01",
+            "summary": "Managed all Bahrain engagements for middleware, internet banking, ATM switch, channel integration, Global Network Solutions (GNS) delivering self service solutions to banks (e-Banking & ATM channels), telecom (Kiosks & e-Payment solutions)",
+            "highlights": [
+                "Implemented e-Banking solutions for major financial institutes in Bahrain including the top two (NBB and BBK).",
+                "Consistently achieved or over achieved revenue targets.",
+                "Supported sales team in terms of presales activities (requirements gathering, problem analysis, business case, solution discussion, coordination with partners, presentations…etc), RFQ/RFP response, proposal development and integration, and contract negotiation.",
+                "Provided customer technical support on complex issues and go-lives."
+            ],
+            "location": {
+                "address": "",
+                "postalCode": "@26.2324305,50.5702004",
+                "city": "Manama",
+                "countryCode": "BH",
+                "region": ""
+            },
+            "endDate": "May 2010-01",
+            "mainSkills": ["Self Service", "Business Analysis", "Business Development", "Project Mgmt", "Customer Service"],
+            "softSkills": ["Leadership", "Communication, Negotiation", "Problem Solving", "Fast Learning", "Critical Thinking"],
+            "techSkills": ["PMP", "ITIL", "MS Project", "Excel", "Visio", "Java", "C++", "ISO 8583", "Oracle RDBMS", "VMWare", "Corillion Internet Banking", "Visa Certification"],
+            "projects": [{
+                    "name": "BBK eBanking Renovation",
+                    "startDate": "Dec 2007-01",
+                    "languages": ["Java", "HTML", "ISO-8583", "SWIFT"],
+                    "tools": ["Eclipse", "MS Project", "Oracle DB", "Visio"],
+                    "capacities": ["Manager", "Analyst"]
+                },
+                {
+                    "name": "Shamil Bank eBanking",
+                    "startDate": "Jul 2008-01",
+                    "languages": ["Java", "XML", "ISO-8583"],
+                    "tools": ["Eclipse", "IBM MQ Server", "Oracle DB"],
+                    "capacities": ["Manager"]
+                },
+                {
+                    "name": "Mortgage Bank",
+                    "startDate": "Dec 2008-01",
+                    "languages": ["C#", "ISO-8583"],
+                    "tools": ["ISO-8583", "Aptra NDC"],
+                    "capacities": ["Manager"]
+                },
+                {
+                    "name": "Khaliji Bank eBanking",
+                    "startDate": "Jan 2008-01",
+                    "languages": ["Java", "HTML", "XML", "Javascript", "ISO-8583"],
+                    "tools": ["Eclipse", "MS Project", "SQL Developer", "Visio"],
+                    "capacities": ["Manager"]
+                },
+                {
+                    "name": "Benefit eBanking SAAS Platform",
+                    "startDate": "Feb 2008-01",
+                    "languages": ["C#", "HTML", "Javascript", "ISO-8583"],
+                    "tools": ["ASP.NET", "Corillion eBanking", "VMWare", "Virtual Box", "Visio"],
+                    "capacities": ["Manager"]
+                }
+            ]
+        },
+        {
+            "company": "EastNets",
+            "position": "Engagement Manager",
+            "website": "http://www.eastnets.com",
+            "startDate": "Aug 2006-01",
+            "summary": "Managed projects for financial reconciliations, Straight Through Processing (STP), and electronic bill presentment and payment from CheckFree",
+            "highlights": [
+                "Analyzed customer requirements and proposed targeted solutions, managing delivery and implementation",
+                "Established new operations in Saudi Arabia and achieved 70% of annual targets in first quarter despite strong competition. Planned, managed and executed aggressive go-to market strategy at minimal costs."
+            ],
+            "location": {
+                "address": "",
+                "postalCode": "@25.0893292,55.1527015",
+                "city": "Dubai",
+                "countryCode": "AE",
+                "region": ""
+            },
+            "endDate": "Nov 2007-01",
+            "mainSkills": ["Project Management", "Business Analysis", "Presales", "Business Planning"],
+            "softSkills": ["Leadership", "Critical Thinking", "Presentation", "Communication", "Negotiation", "Social Networking"],
+            "techSkills": ["PMP", "Excel", "Visio", "MS Project", "SWIFT", ".Net", "C#", "Accurate Reconciliation/Workflow & Dashboard", "Oracle RDBMS", "BizTalk", "SQL Server", "VMWare"],
+            "projects": [{
+                    "name": "CheckFree Bill Presentment & Payment",
+                    "startDate": "Aug 2006-01",
+                    "languages": ["Java", "XML"],
+                    "tools": ["WebServices", "Web Sphere", "Eclipse"],
+                    "capacities": ["Manager", "Architect"]
+                },
+                {
+                    "name": "PayGate Payment Middleware",
+                    "startDate": "Aug 2006-01",
+                    "languages": ["C#", "SQL", "SWIFT"],
+                    "tools": ["ASP.NET", "Visual Studio", "BizTalk", "SQL Server", "VMWare"],
+                    "capacities": ["Manager"]
+                },
+                {
+                    "name": "KSA Operations",
+                    "startDate": "Aug 2006-01",
+                    "languages": [],
+                    "tools": ["Microsoft CRM", "MS Project"],
+                    "capacities": ["Manager"]
+                },
+                {
+                    "name": "NBK PayGate Implementation",
+                    "startDate": "Aug 2006-01",
+                    "languages": ["C#", "SQL", "SWIFT"],
+                    "tools": ["ASP.NET", "Visual Studio", "BizTalk", "SQL Server", "Visio", "VMWare"],
+                    "capacities": ["Manager"]
+                }
+            ]
+        },
+        {
+            "company": "Emitac",
+            "position": "Senior Project Manager",
+            "website": "http://www.emitac.com",
+            "startDate": "May 2001-01",
+            "summary": "Delivered eBusiness, eLearning, eGovernment portals leveraging leading content/document management, workflow and business process management to customers like Emirates Post (first Oracle Portal implementation in UAE and first ePost in GCC), Dubai Aluminium (proprietary J2EE Intranet portal), Ministry of Interior (Imaging solution and full workflow automation using Oracle technologies), Emirates Aviation College (e-Registration & admission system), and others.",
+            "highlights": [
+                "Managed strategic data warehousing implementation for the immigration department to introduce the first centralized DW that supports all entry ports.",
+                "Established AIIM based delivery framework for Enterprise Content Management solutions.",
+                "Supported sales team in terms of presales activities, RFP response, and negotiation."
+            ],
+            "location": {
+                "address": "",
+                "postalCode": "@25.0977747,55.1543904",
+                "city": "Dubai",
+                "countryCode": "AE",
+                "region": ""
+            },
+            "endDate": "Jul 2006-01",
+            "mainSkills": ["Project Management", "Business Analysis", "Solution Architecture", "Pre Sales", "Outsourcing"],
+            "softSkills": ["Presentation", "Communication", "Negotiation", "Leadership", "Fast Learning", "Cooperation"],
+            "techSkills": ["PMP", "Excel", "Visio", "MS Project", "Java", "XML", "Content/Document Mgmt and Workflow Implementation", "Oracle", "Business Objects", "HP UX", "Oracle Application Server", "Toad", "SQL Server", "VMWare"],
+            "projects": [{
+                    "name": "DUBAL Intranet Portal",
+                    "startDate": "May 2001-01",
+                    "languages": ["Java", "XML"],
+                    "tools": ["WebServices", "Web Sphere", "Eclipse"],
+                    "capacities": ["Manager"]
+                },
+                {
+                    "name": "Emirates ePost Portal",
+                    "startDate": "Jan 2002-01",
+                    "languages": ["Java", "SQL", "XML"],
+                    "tools": ["Oracle Portal", "Oracle DB", "Emirates Payment Gateway"],
+                    "capacities": ["Manager", "Developer"]
+                },
+                {
+                    "name": "Ministry of Interior Document Management",
+                    "startDate": "May 2004-01",
+                    "languages": ["Java", "SQL", "XML"],
+                    "tools": ["Oracle Workflow", "Oracle AS", "Oracle DB", "Excel"],
+                    "capacities": ["Manager", "Analyst"]
+                },
+                {
+                    "name": "Sharjah TV Microsoft ERP",
+                    "startDate": "Jan 2006-01",
+                    "languages": ["SQL", "Visual Basic"],
+                    "tools": ["Microsoft Dynamics", "SQL Server", "Visual Studio"],
+                    "capacities": ["Manager", "Analyst"]
+                },
+                {
+                    "name": "Dubai Municipality eQuality Management Analysis",
+                    "startDate": "May 2005-01",
+                    "languages": ["Java", "SQL", "XML"],
+                    "tools": ["UML", "Visio", "ASP.Net", "Oracle DB", "Excel"],
+                    "capacities": ["Analyst"]
+                },
+                {
+                    "name": "Ministry of Environment Portal",
+                    "startDate": "Apr 2005-01",
+                    "languages": ["Java", "SQL", "XML"],
+                    "tools": ["Oracle Portal", "Oracle DB", "JDeveloper", "Oracle AS"],
+                    "capacities": ["Analyst", "Developer"]
+                },
+                {
+                    "name": "Dubai Immigration Department",
+                    "startDate": "May 2005-01",
+                    "languages": ["Java", "SQL", "XML"],
+                    "tools": ["Oracle Portal", "Oracle DB", "JDeveloper", "Oracle AS", "Excel"],
+                    "capacities": ["Manager"]
+                }
+            ]
+        },
+        {
+            "company": "CIT Global",
+            "position": "Senior Software Engineer",
+            "website": "http://www.citglobalwebsite.com",
+            "startDate": "Sep 2000-01",
+            "summary": "Carried different roles (team leading, business analysis, design, development, QA) in the SDLC of software development projects for financial services and catering industry in different areas especially Canada.",
+            "highlights": [],
+            "location": {
+                "address": "",
+                "postalCode": "@30.0325535,31.3410497",
+                "city": "Cairo",
+                "countryCode": "EG",
+                "region": ""
+            },
+            "endDate": "Apr 2001-30",
+            "mainSkills": ["Software Development", "Business Analysis", "Outsourcing", "Quality Assurance"],
+            "softSkills": ["Presentation", "Communication", "Problem Solving", "Fast Learning"],
+            "techSkills": ["Excel", "Visio", "MS Project", "Java", "J2EE", "XML", "C++", "ISO 8583"],
+            "projects": [{
+                    "name": "Air Canada Catering System",
+                    "startDate": "Oct 2000-01",
+                    "languages": ["Java", "SQL"],
+                    "tools": ["JBuilder", "Oracle DB"],
+                    "capacities": ["Developer"]
+                },
+                {
+                    "name": "Master Card Payment Gateway",
+                    "startDate": "Sep 2000-01",
+                    "languages": ["Java", "XML"],
+                    "tools": ["JBuilder", "ISO-8583"],
+                    "capacities": ["Developer"]
+                }
+            ]
+        },
+        {
+            "company": "ISIS",
+            "position": "Software Engineer",
+            "website": "",
+            "startDate": "Sep 1997-01",
+            "summary": "I contributed to a team of 6 players who introduced SAS software experience to be outsourced for international customers.",
+            "highlights": [
+                "Assumed different roles among various projects delivering solutions to banks and insurance companies.",
+                "Development of one of the first on-screen translation products leveraging InfoArab's leading translation engine"
+            ],
+            "location": {
+                "address": "",
+                "postalCode": "@31.1799399,29.9355009",
+                "city": "GIZA",
+                "countryCode": "EG",
+                "region": ""
+            },
+            "endDate": "Aug 2000-01",
+            "mainSkills": ["Software Development", "Business Analysis", "Outsourcing", "Quality Assurance"],
+            "softSkills": ["Presentation", "Communication", "Problem Solving", "Fast Learning"],
+            "techSkills": ["Excel", "Visio", "SAS", "Java", "XML", "C/C++", "Oracle DB", "Visual Studio"],
+            "projects": [{
+                    "name": "SAS Outsourcing",
+                    "startDate": "Sep 1997-01",
+                    "languages": ["SAS Base", "SQL", "Java", "XML"],
+                    "tools": ["JBuilder", "SAS Software", "SAS Warehouse Builder", "Excel", "Visio"],
+                    "capacities": ["Developer"]
+                },
+                {
+                    "name": "Interactive English Arabic Dectionary (IEAD)",
+                    "startDate": "Aug 1998-01",
+                    "languages": ["C++"],
+                    "tools": ["Visual Studio"],
+                    "capacities": ["Developer"]
+                }
+            ]
+        },
+        {
+            "company": "Zamil Steel",
+            "position": "Software Engineer",
+            "website": "http://www.zamilsteel.com",
+            "startDate": "Nov 1995-01",
+            "summary": "Participated in analysis, design, development, and testing of Computer Aided Design (CAD) System utilizing advanced numerical optimization techniques to produce the lightest steel frame weight using Zamil PEB Standards.",
+            "highlights": [
+                "Developed the Customer Information Form (CIF)",
+                "Provided network and systems administration for the start up operations including MS-Exchange, intranet."
+            ],
+            "location": {
+                "address": "",
+                "postalCode": "@29.9069992,30.9200745",
+                "city": "Giza",
+                "countryCode": "EG",
+                "region": ""
+            },
+            "endDate": "Aug 1997-01",
+            "mainSkills": ["Software Design/Development", "Business Analysis", "Numerical Optimization"],
+            "softSkills": ["Problem Solving", "Fast Learning"],
+            "techSkills": ["Excel", "Rational Rose", "C/C++", "Visual Studio", "MS Exchange Server", "SQL Server"],
+            "projects": [{
+                "name": "Zamil Steel CAD System",
+                "startDate": "Nov 1995-01",
+                "languages": ["C++", "XML", "SQL"],
+                "tools": ["Visual Studio", "MS Exchange", "SQL Server", "Excel"],
+                "capacities": ["Developer"]
+            }]
+        }
+    ],
+    "education": [{
+            "institution": "The American University in Cairo",
+            "area": "Computer Science",
+            "studyType": "Professional Deploma",
+            "startDate": "Sep 1994-01",
+            "gpa": "",
+            "courses": ["Data Structures", "Algorithms", "Object Oriented", "Database Management Systems", "C++", "PASCAL", "Business Intelligence"],
+            "endDate": "Dec 1995-01"
+        },
+        {
+            "institution": "Ain Shams University",
+            "area": "Business Administration",
+            "studyType": "Bachelor",
+            "startDate": "Sep 1987-01",
+            "gpa": "",
+            "courses": ["Business Administration", "Financial Analysis", "Operations Research", "Business Stats", "Economics"],
+            "endDate": "Nov 1995-01"
+        }
+    ],
+    "skills": [{
+            "name": "Agile Software Practices",
+            "level": "Master",
+            "keywords": [
+                "Scrum",
+                "Kanban",
+                "Domain-Driven Design",
+                "User Story Mapping",
+                "Joint Application Design (JAD)",
+                "Test Driven Development (TDD)",
+                "Continuous Integration/Delivery",
+                "Automated Unit & Acceptance Testing"
+            ]
+        },
+        {
+            "name": "Object Orient Development",
+            "level": "Master",
+            "keywords": [
+                "C++",
+                "Java",
+                "Javascipt",
+                "Python",
+                "C#",
+                "Design Patterns",
+                "SOLID Principles"
+            ]
+        },
+        {
+            "name": "Enterprise Architecture",
+            "level": "Advanced",
+            "keywords": [
+                "TOGAF",
+                "Oracle Enterprise Reference Architecture",
+                "Solution Architecture",
+                "Architecture Patterns",
+                "SOA"
+            ]
+        },
+        {
+            "name": "Software as a Service",
+            "level": "Intermediate",
+            "keywords": [
+                "Cloud",
+                "Messaging",
+                "REST"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "level": "Advanced",
+            "keywords": [
+                "HTML",
+                "Oracle WebCenter",
+                "Oracle ADF",
+                "Spring MVC",
+                "WebAPI",
+                "CSS",
+                "Javascript",
+                "AngularJS",
+                "D3"
+            ]
+        },
+        {
+            "name": "Data Science",
+            "level": "Beginner",
+            "keywords": [
+                "Data Visualization",
+                "Data Parsing/Mapping",
+                "Machine Learning",
+                "Predictive Analytics",
+                "Statistical Inference",
+                "Python Anaconda"
+            ]
+        }
+    ],
+    "languages": [{
+            "language": "English",
+            "fluency": "Native or bilingual proficiency"
+        },
+        {
+            "language": "Arabic",
+            "fluency": "Native or bilingual proficiency"
+        }
+    ]
+}
