@@ -89,7 +89,7 @@
                     "name": "WSIB Web Renewal",
                     "startDate": "Sep 2013-01",
                     "languages": ["Java", "Javascript", "HTML", "JSON"],
-                    "tools": ["Oracle WebCenter Suite", "JDeveloper", "ADF", "JSF", "Oracle Enterprise Linux", "Virtual Box", "Excel", "Visio"],
+                    "tools": ["Oracle WebCenter Suite", "JDeveloper", "ADF", "JSF", "Oracle Enterprise Linux", "Weblogic", "Virtual Box", "Excel", "Visio"],
                     "capacities": ["Architect", "Developer"]
                 },
                 {
@@ -227,7 +227,7 @@
                     "capacities": ["Manager"]
                 },
                 {
-                    "name": "Mortgage Bank",
+                    "name": "Eskan Bank",
                     "startDate": "Dec 2008-01",
                     "languages": ["C#", "ISO-8583"],
                     "tools": ["ISO-8583", "Aptra NDC"],
@@ -333,7 +333,7 @@
                     "name": "Emirates ePost Portal",
                     "startDate": "Jan 2002-01",
                     "languages": ["Java", "SQL", "XML"],
-                    "tools": ["Oracle Portal", "Oracle DB", "Emirates Payment Gateway"],
+                    "tools": ["Oracle Portal", "Oracle DB", "Weblogic", "Emirates Payment Gateway"],
                     "capacities": ["Manager", "Developer"]
                 },
                 {
@@ -395,7 +395,7 @@
                     "name": "Air Canada Catering System",
                     "startDate": "Oct 2000-01",
                     "languages": ["Java", "SQL"],
-                    "tools": ["JBuilder", "Oracle DB"],
+                    "tools": ["JBuilder", "Oracle DB", "Weblogic"],
                     "capacities": ["Developer"]
                 },
                 {

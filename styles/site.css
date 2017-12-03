@@ -128,8 +128,8 @@ polyline {
 /* Adapted from https://github.com/icoloma/jsonresume-theme-kwan */
 
 text {
-    font-family: 'Inconsolata', monospace;
-    font-size: 1.9vh;
+    font-family: 'Merriweather', serif;
+    font-size: 1.4vh;
     vertical-align: middle;
 }
 
@@ -655,7 +655,7 @@ ul {
     position: relative;
     max-width: 1200px;
     margin: 0 auto;
-    font-size: 1.5vh;
+    font-size: 1.8vh;
 }
 
 
