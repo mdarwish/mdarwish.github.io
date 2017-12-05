@@ -96,7 +96,7 @@
                     "name": "Canada Life Content Management Selection",
                     "startDate": "01 May 2014",
                     "languages": ["UML"],
-                    "tools": ["Wordpress", "IBM Content", "Drupal", "Excel", "Visio"],
+                    "tools": ["IBM Content", "Google Analytics", "Wordpress", "Drupal", "Excel", "Visio"],
                     "capacities": ["Analyst"]
                 },
                 {
@@ -289,14 +289,14 @@
                     "name": "CheckFree Bill Presentment & Payment",
                     "startDate": "01 Aug 2006",
                     "languages": ["Java", "XML", "SWIFT"],
-                    "tools": ["WebServices", "Web Sphere", "Eclipse"],
+                    "tools": ["Web Sphere", "Eclipse"],
                     "capacities": ["Manager", "Architect"]
                 },
                 {
                     "name": "PayGate Payment Middleware",
                     "startDate": "01 Sep 2006",
-                    "languages": ["C#", "SQL", "SWIFT"],
-                    "tools": ["ASP.NET", "Visual Studio", "BizTalk", "SQL Server", "VMWare"],
+                    "languages": ["ASP.NET", "C#", "SQL", "SWIFT"],
+                    "tools": ["Visual Studio", "BizTalk", "SQL Server", "VMWare"],
                     "capacities": ["Manager"]
                 },
                 {
@@ -341,7 +341,7 @@
                     "name": "DUBAL Intranet Portal",
                     "startDate": "01 May 2001",
                     "languages": ["Java", "XML"],
-                    "tools": ["WebServices", "Web Sphere", "Eclipse"],
+                    "tools": ["Web Sphere", "Eclipse"],
                     "capacities": ["Manager"]
                 },
                 {
