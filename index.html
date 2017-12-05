@@ -128,8 +128,7 @@
         </section>
         <section class="row ">
             <div class="card-wrapper ">
-                <div class="card background-card ">
-
+                <div class="card">
                     <h4 id="work-experience "> <span class="fa fa-lg fa-pencil-square-o "></span> <span class="title ">Work Experience</span> </h4>
                     <div ng-repeat="job in resume.work ">
                         <div class="timeline ">
@@ -164,7 +163,7 @@
         </section>
         <section class="row ">
             <div class="card-wrapper ">
-                <div class="card background-card ">
+                <div class="card">
                     <h4 id="languages"> <span class="title">Languages</span> </h4>
                     <div id="languageChart">
                         <div id="pop-up">
@@ -182,7 +181,13 @@
                         </fieldset>
                     </div>
                     <hierarchical-bar datasource='languages'></hierarchical-bar>
+                </div>
+            </div>
+        </section>
 
+        <section class="row ">
+            <div class="card-wrapper ">
+                <div class="card">
                     <h4 id="tools"> <span class="title">Tools</span> </h4>
                     <div id="toolChart">
                         <fieldset class="filterOptions">
@@ -194,6 +199,12 @@
                         </fieldset>
                     </div>
                     <hierarchical-bar datasource='tools'></hierarchical-bar>
+                </div>
+            </div>
+        </section>
+        <section class="row ">
+            <div class="card-wrapper ">
+                <div class="card">
 
                     <h4 id="education "><span class="fa fa-lg fa-mortar-board "></span> <span class="title ">Education</span></h4>
 
@@ -205,8 +216,8 @@
                                 </p>
                                 <p class="text-muted ">
                                     <small>
-                                    {{school.startDate}} - {{school.endDate}}
-                                </small>
+                            {{school.startDate}} - {{school.endDate}}
+                        </small>
                                 </p>
                                 <i>{{school.gpa}}</i>
                             </div>
