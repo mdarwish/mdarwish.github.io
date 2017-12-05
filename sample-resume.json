@@ -45,7 +45,7 @@
             "endDate": "28 Nov 2017",
             "mainSkills": ["ATM Software", "Software Development", "Software Testing"],
             "softSkills": ["Problem Solving", "Fast Learning"],
-            "techSkills": ["TOGAF", "ITIL", "Visual Studio", "HTML5", "Javascrip", "CSS", "Angular", "C++", "Elasticsearch", "VMWare", "Jenkins", "PTC", "JIRA", "GIT"],
+            "techSkills": ["TOGAF", "ITIL", "Visual Studio", "HTML", "Javascrip", "CSS", "Angular", "C++", "Elasticsearch", "VMWare", "Jenkins", "PTC", "JIRA", "GIT"],
             "projects": [{
                     "name": "Network Solutions Terminal Software Product Development and Support",
                     "startDate": "Jun 2016-13",
@@ -57,7 +57,7 @@
                     "name": "ATM Log parsing, analysis, and visualization",
                     "startDate": "Mar 2017-13",
                     "languages": ["Python", "Javascript", "NoSQL", "JSON", "ISO-8583"],
-                    "tools": ["Elasticsearch", "Logstash", "Kibana", "D3"],
+                    "tools": ["ELK Stack", "D3"],
                     "capacities": ["Architect", "Developer", "Analyst"]
                 }
             ]
@@ -84,12 +84,12 @@
             "endDate": "Jun 2016-10",
             "mainSkills": ["Enterprise Architecture", "Cloud Architecture", "Software Development", "Continuous Integration", "Content Management", "Enterprise Portals"],
             "softSkills": ["Presentation", "Communication", "Problem Solving", "Fast Learning"],
-            "techSkills": ["TOGAF", "ITIL", "Oracle WebCenter Suite", "Oracle DB", "JDeveloper", "Eclipse", "HTML5", "Javascrip", "CSS", "Angular", "VMWare", "Oracle Linux", "Ubuntu", "Spring framework", "Maven", "Jenkins", "Dockers", "CloudStack", "AWS", "Virtual Box", "Elasticsearch", "Rally", "JIRA", "GIT", "Dimentions", "ALM"],
+            "techSkills": ["TOGAF", "ITIL", "WebCenter Suite", "Oracle DB", "JDeveloper", "Eclipse", "HTML5", "Javascrip", "CSS", "Angular", "VMWare", "Oracle Linux", "Ubuntu", "Spring framework", "Maven", "Jenkins", "Dockers", "CloudStack", "AWS", "Virtual Box", "Elasticsearch", "Rally", "JIRA", "GIT"],
             "projects": [{
                     "name": "WSIB Web Renewal",
                     "startDate": "01 Sep 2013",
-                    "languages": ["Java", "Javascript", "HTML", "JSON"],
-                    "tools": ["Oracle WebCenter Suite", "JDeveloper", "ADF", "JSF", "Oracle Enterprise Linux", "Weblogic", "Virtual Box", "Excel", "Visio"],
+                    "languages": ["Java", "Javascript", "HTML", "JSF", "JSON"],
+                    "tools": ["Oracle WebCenter", "JDeveloper", "ADF", "Oracle Linux", "Weblogic", "Virtual Box", "Excel", "Visio"],
                     "capacities": ["Architect", "Developer"]
                 },
                 {
@@ -110,14 +110,14 @@
                     "name": "Sunlife Batch Migration",
                     "startDate": "01 Apr 2015",
                     "languages": ["Javascript", "Python", "JSON", "HTML", "NoSQL"],
-                    "tools": ["Elasticsearch", "Logstash", "Kibana", "Excel", "D3", "Excel", "Visio"],
+                    "tools": ["ELK Stack", "Excel", "D3", "Excel", "Visio"],
                     "capacities": ["Architect", "Analyst"]
                 },
                 {
                     "name": "Sunlife Annuity Renewal",
                     "startDate": "01 Nov 2015",
                     "languages": ["Java", "Javascript", "HTML", "CSS", "JSON"],
-                    "tools": ["Eclipse", "Dimentions", "ALM", "Weblogic", "ORM", "DB2", "Excel", "Visio"],
+                    "tools": ["Eclipse", "Weblogic", "Excel", "Visio"],
                     "capacities": ["Architect", "Analyst"]
                 }
             ]
@@ -151,21 +151,21 @@
                     "name": "City of Surry Portal Responsive Transformation",
                     "startDate": "22 Jul 2012",
                     "languages": ["HTML", "CSS", "Javascript", "JSON", "NoSQL"],
-                    "tools": ["RedDot", "Eclipse", "Google Analytics", "Excel", "Visio"],
+                    "tools": ["Google Analytics", "Excel", "Visio"],
                     "capacities": ["Manager"]
                 },
                 {
                     "name": "MapleSoft WebCenter Spaces Implementation",
                     "startDate": "22 Oct 2012",
-                    "languages": ["Java", "HTML", "CSS", "Javascript", "JSON"],
-                    "tools": ["Oracle WebCenter Suite", "JDeveloper", "Oracle ADF", "JSF", "Weblogic", "Virtual Box", "Excel", "Visio"],
+                    "languages": ["Java", "HTML", "CSS", "Javascript", "JSF", "JSON"],
+                    "tools": ["Oracle WebCenter", "JDeveloper", "Oracle ADF", "Weblogic", "Virtual Box", "Excel", "Visio"],
                     "capacities": ["Analyst", "Architect", "Developer"]
                 },
                 {
                     "name": "Oracle WebCenter COE",
                     "startDate": "22 Jan 2013",
                     "languages": ["Java", "JSF", "HTML"],
-                    "tools": ["Oracle WebCenter Suite", "Oracle Enterprise Linux", "Virtual Box", "JDeveloper", "Visio"],
+                    "tools": ["Oracle WebCenter", "Oracle Linux", "Virtual Box", "JDeveloper", "Visio"],
                     "capacities": ["Manager"]
                 }
             ]
@@ -223,7 +223,7 @@
                     "name": "Khaliji Bank eBanking",
                     "startDate": "01 Jan 2008",
                     "languages": ["Java", "HTML", "XML", "Javascript", "ISO-8583"],
-                    "tools": ["Eclipse", "MS Project", "SQL Developer", "Visio"],
+                    "tools": ["JDeveloper", "MS Project", "SQL Developer", "Visio"],
                     "capacities": ["Manager"]
                 },
                 {
@@ -303,7 +303,7 @@
                     "name": "KSA Operations",
                     "startDate": "01 Mar 2007",
                     "languages": ["SWIFT"],
-                    "tools": ["Microsoft CRM", "MS Project"],
+                    "tools": ["MS CRM", "MS Project"],
                     "capacities": ["Manager"]
                 },
                 {
@@ -341,14 +341,14 @@
                     "name": "DUBAL Intranet Portal",
                     "startDate": "01 May 2001",
                     "languages": ["Java", "XML"],
-                    "tools": ["Web Sphere", "Eclipse"],
+                    "tools": ["JDeveloper"],
                     "capacities": ["Manager"]
                 },
                 {
                     "name": "Emirates ePost Portal",
                     "startDate": "01 Jan 2002",
                     "languages": ["Java", "SQL", "XML"],
-                    "tools": ["Oracle Portal", "Oracle DB", "Weblogic", "Emirates Payment Gateway"],
+                    "tools": ["Oracle Portal", "Oracle DB", "Weblogic", "JDeveloper"],
                     "capacities": ["Manager", "Developer"]
                 },
                 {
@@ -380,10 +380,10 @@
                     "capacities": ["Manager"]
                 },
                 {
-                    "name": "Sharjah TV Microsoft ERP",
+                    "name": "Sharjah TV MS ERP",
                     "startDate": "01 Jan 2006",
                     "languages": ["SQL", "Visual Basic"],
-                    "tools": ["Microsoft Dynamics", "SQL Server", "Visual Studio"],
+                    "tools": ["SQL Server", "Visual Studio"],
                     "capacities": ["Manager", "Analyst"]
                 }
             ]
