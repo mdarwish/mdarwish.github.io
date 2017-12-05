@@ -55,7 +55,7 @@
                 },
                 {
                     "name": "ATM Log parsing, analysis, and visualization",
-                    "startDate": "Jun 2016-13",
+                    "startDate": "Mar 2017-13",
                     "languages": ["Python", "Javascript", "NoSQL", "JSON", "ISO-8583"],
                     "tools": ["Elasticsearch", "Logstash", "Kibana", "D3"],
                     "capacities": ["Architect", "Developer", "Analyst"]
@@ -294,21 +294,21 @@
                 },
                 {
                     "name": "PayGate Payment Middleware",
-                    "startDate": "01 Aug 2006",
+                    "startDate": "01 Sep 2006",
                     "languages": ["C#", "SQL", "SWIFT"],
                     "tools": ["ASP.NET", "Visual Studio", "BizTalk", "SQL Server", "VMWare"],
                     "capacities": ["Manager"]
                 },
                 {
                     "name": "KSA Operations",
-                    "startDate": "01 Aug 2006",
+                    "startDate": "01 Mar 2007",
                     "languages": ["SWIFT"],
                     "tools": ["Microsoft CRM", "MS Project"],
                     "capacities": ["Manager"]
                 },
                 {
                     "name": "NBK PayGate Implementation",
-                    "startDate": "01 Aug 2006",
+                    "startDate": "01 May 2007",
                     "languages": ["C#", "SQL", "SWIFT"],
                     "tools": ["ASP.NET", "Visual Studio", "BizTalk", "SQL Server", "Visio", "VMWare"],
                     "capacities": ["Manager"]
@@ -353,17 +353,17 @@
                 },
                 {
                     "name": "Ministry of Interior Document Management",
-                    "startDate": "01 May 2004",
+                    "startDate": "01 Sep 2003",
                     "languages": ["Java", "SQL", "XML"],
                     "tools": ["Oracle Workflow", "Oracle AS", "Oracle DB", "Excel"],
                     "capacities": ["Manager", "Analyst"]
                 },
                 {
-                    "name": "Sharjah TV Microsoft ERP",
-                    "startDate": "01 Jan 2006",
-                    "languages": ["SQL", "Visual Basic"],
-                    "tools": ["Microsoft Dynamics", "SQL Server", "Visual Studio"],
-                    "capacities": ["Manager", "Analyst"]
+                    "name": "Ministry of Environment Portal",
+                    "startDate": "01 Apr 2004",
+                    "languages": ["Java", "SQL", "XML"],
+                    "tools": ["Oracle Portal", "Oracle DB", "JDeveloper", "Oracle AS"],
+                    "capacities": ["Analyst", "Developer"]
                 },
                 {
                     "name": "Dubai Municipality eQuality Management Analysis",
@@ -373,18 +373,18 @@
                     "capacities": ["Analyst"]
                 },
                 {
-                    "name": "Ministry of Environment Portal",
-                    "startDate": "01 Apr 2005",
-                    "languages": ["Java", "SQL", "XML"],
-                    "tools": ["Oracle Portal", "Oracle DB", "JDeveloper", "Oracle AS"],
-                    "capacities": ["Analyst", "Developer"]
-                },
-                {
                     "name": "Dubai Immigration Department",
-                    "startDate": "01 May 2005",
+                    "startDate": "01 Sep 2005",
                     "languages": ["Java", "SQL", "XML"],
                     "tools": ["Oracle Portal", "Oracle DB", "JDeveloper", "Oracle AS", "Excel"],
                     "capacities": ["Manager"]
+                },
+                {
+                    "name": "Sharjah TV Microsoft ERP",
+                    "startDate": "01 Jan 2006",
+                    "languages": ["SQL", "Visual Basic"],
+                    "tools": ["Microsoft Dynamics", "SQL Server", "Visual Studio"],
+                    "capacities": ["Manager", "Analyst"]
                 }
             ]
         },
@@ -408,7 +408,7 @@
             "techSkills": ["Excel", "Visio", "MS Project", "Java", "J2EE", "XML", "C++", "ISO 8583"],
             "projects": [{
                     "name": "Master Card Payment Gateway",
-                    "startDate": "Sep 2000-01",
+                    "startDate": "01 Sep 2000",
                     "languages": ["Java", "XML"],
                     "tools": ["JBuilder", "ISO-8583"],
                     "capacities": ["Developer"]
