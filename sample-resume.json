@@ -583,6 +583,31 @@
             ]
         }
     ],
+    "certifications": [{
+            "title": "PMP",
+            "certification_body": "Project Management Institute (PMI) - USA",
+            "type": "Professional",
+            "from": "July-2005",
+            "to": "Dec 2016",
+            "logo": "./img/pmp.png"
+        },
+        {
+            "title": "ITIL",
+            "certification_body": "Office of Government Commerce (OGC) - UK",
+            "type": "Professional",
+            "from": "Nov-2010",
+            "to": "now",
+            "logo": "./img/itilv3.png"
+        },
+        {
+            "title": "TOGAF",
+            "certification_body": "The Open Group - Global",
+            "type": "Professional",
+            "from": "May-2015",
+            "to": "now",
+            "logo": "./img/togaf9.png"
+        }
+    ],
     "languages": [{
             "language": "English",
             "fluency": "Native or bilingual proficiency"

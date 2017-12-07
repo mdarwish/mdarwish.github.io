@@ -8,6 +8,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/md5.js"></script>
     <script src="./lib/jquery/dist/jquery.min.js"></script>
     <script src="./lib/angular/angular.min.js"></script>
+    <script src="./lib/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="./lib/d3/d3.min.js"></script>
     <script src="./lib/lodash/lodash.min.js"></script>
     <script src="./lib/moment/min/moment.min.js"></script>
@@ -17,7 +18,7 @@
     <!-- endinject -->
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./lib/bootstrap/dist/css/bootstrap.min.css">
     <link href='//fonts.googleapis.com/css?family=Lato:400,500,600,700|Open+Sans:400,500,600,700' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Inconsolata|Merriweather:300|Montserrat:200i" rel="stylesheet">
     <link rel="stylesheet" href="./styles/site.css">
@@ -174,10 +175,10 @@
                         </div>
                         <fieldset class="filterOptions">
                             <legend>Roles</legend>
-                            <input class="filterButtonLanguage" name="Manager" type="checkbox" checked>Manager</input><br>
-                            <input class="filterButtonLanguage" name="Architect" type="checkbox" checked>Architect</input><br>
-                            <input class="filterButtonLanguage" name="Developer" type="checkbox" checked>Developer</input><br>
-                            <input class="filterButtonLanguage" name="Analyst" type="checkbox" checked>Analyst</input><br>
+                            <input class="filterButtonLanguage" name="Manager" type="checkbox" checked>Manager<br>
+                            <input class="filterButtonLanguage" name="Architect" type="checkbox" checked>Architect<br>
+                            <input class="filterButtonLanguage" name="Developer" type="checkbox" checked>Developer<br>
+                            <input class="filterButtonLanguage" name="Analyst" type="checkbox" checked>Analyst<br>
                         </fieldset>
                     </div>
                     <hierarchical-bar datasource='languages'></hierarchical-bar>
@@ -186,45 +187,62 @@
         </section>
 
         <section class="row ">
-            <div class="card-wrapper ">
+            <div class="card-wrapper">
                 <div class="card">
                     <h4 id="tools"> <span class="title">Tools</span> </h4>
                     <div id="toolChart">
                         <fieldset class="filterOptions">
                             <legend>Roles</legend>
-                            <input class="filterButtonTool" name="Manager" type="checkbox" checked>Manager</input><br>
-                            <input class="filterButtonTool" name="Architect" type="checkbox" checked>Architect</input><br>
-                            <input class="filterButtonTool" name="Developer" type="checkbox" checked>Developer</input><br>
-                            <input class="filterButtonLanguage" name="Analyst" type="checkbox" checked>Analyst</input><br>
+                            <input class="filterButtonTool" name="Manager" type="checkbox" checked>Manager<br>
+                            <input class="filterButtonTool" name="Architect" type="checkbox" checked>Architect<br>
+                            <input class="filterButtonTool" name="Developer" type="checkbox" checked>Developer<br>
+                            <input class="filterButtonLanguage" name="Analyst" type="checkbox" checked>Analyst<br>
                         </fieldset>
                     </div>
                     <hierarchical-bar datasource='tools'></hierarchical-bar>
                 </div>
             </div>
         </section>
-        <section class="row ">
-            <div class="card-wrapper ">
+        <section row>
+            <div class="col-md-8">
+                <h4 id="education"><span class="fa fa-lg fa-mortar-board "></span> <span class="title ">Education</span></h4>
+
+                <ul class="list-unstyled ">
+                    <li class="card-nested media" ng-repeat="school in resume.education ">
+                        <div class="content has-sidebar media-body">
+                            <p class="clear-margin-sm ">
+                                <strong>{{school.area}}, {{school.studyType}}</strong>,&nbsp; {{school.institution}}
+                            </p>
+                            <p class="text-muted ">
+                                <small>{{school.startDate}} - {{school.endDate}}</small>
+                            </p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-mg-8">
                 <div class="card">
 
-                    <h4 id="education "><span class="fa fa-lg fa-mortar-board "></span> <span class="title ">Education</span></h4>
+                    <h4 id="certification"><span class="fa fa-2x fa-certificate"></span> <span class="title ">Certifications</span></h4>
 
                     <ul class="list-unstyled ">
-                        <li class="card-nested " ng-repeat="school in resume.education ">
-                            <div class="content has-sidebar ">
-                                <p class="clear-margin-sm ">
-                                    <strong>{{school.area}}, {{school.studyType}}</strong>,&nbsp; {{school.institution}}
-                                </p>
+                        <li class="media" ng-repeat="cert in resume.certifications">
+                            <div class="media-left">
+                                <img class="logo media-object" src="{{cert.logo}}" alt="Logo">
+                            </div>
+                            <div class="content has-sidebar media-body">
+                                <strong>{{cert.title}}</strong>
                                 <p class="text-muted ">
                                     <small>
-                            {{school.startDate}} - {{school.endDate}}
-                        </small>
+                                                {{cert.from}} - {{cert.to}}
+                                            </small>
                                 </p>
-                                <i>{{school.gpa}}</i>
                             </div>
                         </li>
                     </ul>
                 </div>
             </div>
+
         </section>
 
         <footer>
