@@ -88,7 +88,7 @@
             "projects": [{
                     "name": "WSIB Web Renewal",
                     "startDate": "01 Sep 2013",
-                    "languages": ["Java", "Javascript", "HTML", "JSF", "JSON"],
+                    "languages": ["Java", "Javascript", "HTML", "JSF", "JSON", "SQL"],
                     "tools": ["Oracle WebCenter", "JDeveloper", "ADF", "Oracle Linux", "Weblogic", "Virtual Box", "Excel", "Visio"],
                     "capacities": ["Architect", "Developer"]
                 },
@@ -102,7 +102,7 @@
                 {
                     "name": "AVIVA Online Quote",
                     "startDate": "01 Oct 2014",
-                    "languages": ["Java", "Javascript", "JSON"],
+                    "languages": ["Java", "Javascript", "JSON", "HTML"],
                     "tools": ["Eclipse", "Spring Framework", "Maven", "Jenkins", "GIT", "Virtual Box", "Excel", "Visio"],
                     "capacities": ["Analyst"]
                 },
@@ -116,7 +116,7 @@
                 {
                     "name": "Sunlife Annuity Renewal",
                     "startDate": "01 Nov 2015",
-                    "languages": ["Java", "Javascript", "HTML", "CSS", "JSON"],
+                    "languages": ["Java", "Javascript", "HTML", "CSS", "JSON", "SQL"],
                     "tools": ["Eclipse", "Weblogic", "Excel", "Visio"],
                     "capacities": ["Architect", "Analyst"]
                 }
@@ -157,7 +157,7 @@
                 {
                     "name": "MapleSoft WebCenter Spaces Implementation",
                     "startDate": "22 Oct 2012",
-                    "languages": ["Java", "HTML", "CSS", "Javascript", "JSF", "JSON"],
+                    "languages": ["Java", "HTML", "CSS", "Javascript", "JSF", "JSON", "SQL"],
                     "tools": ["Oracle WebCenter", "JDeveloper", "Oracle ADF", "Weblogic", "Virtual Box", "Excel", "Visio"],
                     "capacities": ["Analyst", "Architect", "Developer"]
                 },
@@ -222,43 +222,43 @@
             "projects": [{
                     "name": "Khaliji Bank eBanking",
                     "startDate": "01 Jan 2008",
-                    "languages": ["Java", "HTML", "XML", "Javascript", "ISO-8583"],
+                    "languages": ["Java", "HTML", "XML", "Javascript", "ISO-8583", "SQL"],
                     "tools": ["JDeveloper", "MS Project", "SQL Developer", "Visio"],
                     "capacities": ["Manager"]
                 },
                 {
                     "name": "Benefit eBanking SAAS Platform",
                     "startDate": "01 Sep 2008",
-                    "languages": ["C#", "HTML", "Javascript", "ISO-8583"],
-                    "tools": ["ASP.NET", "Corillion eBanking", "VMWare", "Virtual Box", "Visio"],
+                    "languages": ["C#", "ASP.NET", "HTML", "Javascript", "ISO-8583", "SQL"],
+                    "tools": ["Corillion eBanking", "VMWare", "Virtual Box", "Visio"],
                     "capacities": ["Manager"]
                 },
                 {
                     "name": "BBK eBanking Renovation",
                     "startDate": "01 Jan 2009",
-                    "languages": ["Java", "HTML", "ISO-8583", "SWIFT"],
+                    "languages": ["Java", "HTML", "ISO-8583", "SWIFT", "SQL"],
                     "tools": ["Eclipse", "MS Project", "Oracle DB", "Visio"],
                     "capacities": ["Manager", "Analyst"]
                 },
                 {
                     "name": "Eskan Bank",
                     "startDate": "01 Apr 2009",
-                    "languages": ["C#", "ISO-8583"],
-                    "tools": ["ISO-8583", "Aptra NDC"],
+                    "languages": ["C#", "ISO-8583", "Aptra NDC"],
+                    "tools": ["Eclipse"],
                     "capacities": ["Manager"]
                 },
                 {
                     "name": "BBK Cash Management Integration",
                     "startDate": "01 Jul 2009",
                     "languages": ["Java", "XML", "ISO-8583", "SWIFT"],
-                    "tools": ["Eclipse", "IBM MQ Server", "Oracle DB"],
+                    "tools": ["Eclipse", "MQ Series", "Oracle DB"],
                     "capacities": ["Manager", "Analyst"]
                 },
                 {
                     "name": "Shamil Bank eBanking",
                     "startDate": "01 Sep 2009",
                     "languages": ["Java", "XML", "ISO-8583"],
-                    "tools": ["Eclipse", "IBM MQ Server", "Oracle DB"],
+                    "tools": ["Eclipse", "MQ Series", "Oracle DB"],
                     "capacities": ["Manager"]
                 }
             ]
@@ -288,7 +288,7 @@
             "projects": [{
                     "name": "CheckFree Bill Presentment & Payment",
                     "startDate": "01 Aug 2006",
-                    "languages": ["Java", "XML", "SWIFT"],
+                    "languages": ["Java", "XML", "SWIFT", "SQL"],
                     "tools": ["Web Sphere", "Eclipse"],
                     "capacities": ["Manager", "Architect"]
                 },
@@ -296,7 +296,7 @@
                     "name": "PayGate Payment Middleware",
                     "startDate": "01 Sep 2006",
                     "languages": ["ASP.NET", "C#", "SQL", "SWIFT"],
-                    "tools": ["Visual Studio", "BizTalk", "SQL Server", "VMWare"],
+                    "tools": ["Visual Studio", "BizTalk", "SQL Server", "VMWare", "MQ Series"],
                     "capacities": ["Manager"]
                 },
                 {
@@ -309,8 +309,8 @@
                 {
                     "name": "NBK PayGate Implementation",
                     "startDate": "01 May 2007",
-                    "languages": ["C#", "SQL", "SWIFT"],
-                    "tools": ["ASP.NET", "Visual Studio", "BizTalk", "SQL Server", "Visio", "VMWare"],
+                    "languages": ["C#", "ASP.NET", "SQL", "SWIFT", "SQL"],
+                    "tools": ["Visual Studio", "BizTalk", "SQL Server", "Visio", "VMWare"],
                     "capacities": ["Manager"]
                 }
             ]
@@ -369,7 +369,7 @@
                     "name": "Dubai Municipality eQuality Management Analysis",
                     "startDate": "01 May 2005",
                     "languages": ["Java", "SQL", "XML"],
-                    "tools": ["UML", "Visio", "ASP.Net", "Oracle DB", "Excel"],
+                    "tools": ["UML", "Visio", "Oracle DB", "Excel"],
                     "capacities": ["Analyst"]
                 },
                 {
@@ -409,8 +409,8 @@
             "projects": [{
                     "name": "Master Card Payment Gateway",
                     "startDate": "01 Sep 2000",
-                    "languages": ["Java", "XML"],
-                    "tools": ["JBuilder", "ISO-8583"],
+                    "languages": ["Java", "XML", "ISO-8583"],
+                    "tools": ["JBuilder", "Web Sphere"],
                     "capacities": ["Developer"]
                 },
                 {
