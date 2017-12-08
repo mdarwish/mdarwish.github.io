@@ -22,6 +22,20 @@
     <link href='//fonts.googleapis.com/css?family=Lato:400,500,600,700|Open+Sans:400,500,600,700' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Inconsolata|Merriweather:300|Montserrat:200i" rel="stylesheet">
     <link rel="stylesheet" href="./styles/site.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110949372-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-110949372-1');
+    </script>
+
 </head>
 
 <body itemscope ng-app="visualResume">
@@ -212,7 +226,7 @@
                     <li class="card-nested media" ng-repeat="school in resume.education ">
                         <div class="content has-sidebar media-body">
                             <p class="clear-margin-sm ">
-                                <strong>{{school.area}}, {{school.studyType}}</strong>,&nbsp; {{school.institution}}
+                                <strong>{{school.area}}, {{school.studyType}}</strong><br> {{school.institution}}
                             </p>
                             <p class="text-muted ">
                                 <small>{{school.startDate}} - {{school.endDate}}</small>
@@ -221,7 +235,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-mg-6">
+            <div class="col-mg-2">
                 <div class="card">
 
                     <h4 id="certification"><span class="fa fa-2x fa-certificate"></span> <span class="title ">Certifications</span></h4>
