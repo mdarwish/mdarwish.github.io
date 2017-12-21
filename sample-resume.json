@@ -320,8 +320,12 @@
             "position": "Senior Project Manager",
             "website": "http://www.emitac.com",
             "startDate": "01 May 2001",
-            "summary": "Delivered eBusiness, eLearning, eGovernment portals leveraging leading content/document management, workflow and business process management to customers like Emirates Post (first Oracle Portal implementation in UAE and first ePost in GCC), Dubai Aluminium (proprietary J2EE Intranet portal), Ministry of Interior (Imaging solution and full workflow automation using Oracle technologies), Emirates Aviation College (e-Registration & admission system), and others.",
+            "summary": "Delivered eBusiness, eLearning, eGovernment portals leveraging leading content/document management, workflow and business process management to customers like Emirates Post, Dubai Aluminium, Ministry of Interior, Emirates Aviation College, and others.",
             "highlights": [
+                "Emirates Post (first Oracle Portal implementation in UAE and first ePost in GCC)",
+                "Proprietary J2EE Intranet portal for Dubai Aluminium integrating/automating many of their internal processes and calendars.",
+                "Imaging solution and full workflow automation using Oracle technologies for the Ministry of Interior automating all correspondences of 36 departments across UAE.",
+                "Emirates Aviation College (e-Registration & admission system).",
                 "Managed strategic data warehousing implementation for the immigration department to introduce the first centralized DW that supports all entry ports.",
                 "Established AIIM based delivery framework for Enterprise Content Management solutions, which improved the overall quality of our delivery process",
                 "Supported sales team to achieve over $3M in new sales, through presales activities, RFP response, and negotiation."
