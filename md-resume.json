@@ -6,7 +6,7 @@
         "email": "mdarwish1970@gmail.com",
         "phone": "+1.519.697.9294",
         "website": "https://mdarwish.github.io/",
-        "summary": "<ul><li>20+ years of IT services working with various business and IT folks in government and financial sectors to implement business derive Portals the deliver modern/innovative self-service channels.</li><li>Implemented revolutionary digital innovations based on industry leading Web Content Management platforms.</li><li>My PMP, ITIL, and TOGAF knowledge enable me to develop complete view of the enterprise information spectrum and how these frameworks work together.</li><li>Sound experience of J2EE application design/development and MVC patterns with strong exposure to Spring, Oracle ADF, WebCenter Content/Portal.</li><li>Strong contributor at any stage of SDLC leveraging deep technical and business understanding focused on financial industry.</li></ul>",
+        "summary": "<ul><li>20+ years of IT services working with various business and IT folks in government and financial sectors to implement business derive Portals the deliver modern/innovative self-service channels.</li><li>Implemented revolutionary digital innovations based on industry leading Web Content Management platforms.</li><li>My PMP, ITIL, and TOGAF knowledge enable me to develop complete view of the enterprise information spectrum and how these frameworks work together.</li><li>Sound experience of J2EE application design/development and MVC patterns with strong exposure to Spring, Oracle ADF, WebCenter Content/Portal.</li><li>Strong contributor at any stage of SDLC leveraging deep technical and business understanding focused on financial industry.</li><li>Creative thinker and analytical problem-solver that can work under pressure, time-sensitive, and difficult environments.</li><li>Lifetime learner. I had the privilege to consciously observe the rise and crash of many initiatives as a direct result of stalled learning and disconnection from present moment.</li></ul>",
         "location": {
             "address": "",
             "postalCode": "N6J 2C7",
@@ -27,13 +27,12 @@
             "startDate": "13 Jun 2016",
             "summary": "",
             "highlights": [
-                "Assists in planning and coordinating work team and may lead a group of application developers",
-                "Takes an active role in the requirements-gathering process",
-                "Work closely with other team members and Project Managers to understand product requirements and translate them into software solutions",
-                "Coordinates and/or handles complex application features and technical designs",
-                "Is primary liaison between the technical project staff and Project Managers and stays intimately aware of all project details",
-                "Handles complex application features and technical designs",
-                "Required to mentor/train new development staff"
+                "Contributed to ATM Terminal Software development, deployment, support, and ecosystem.",
+                "Assisted in planning and coordinating work team and led a group of application developers to support customer patches.",
+                "Took an active role in the requirements-gathering and delivery process",
+                "Worked closely with other team members and Project Managers in scrum fashion.",
+                "Coordinated and handled complex application features and technical designs.",
+                "Mentored offshore developers and supported local team."
             ],
             "location": {
                 "address": "",
@@ -322,12 +321,12 @@
             "startDate": "01 May 2001",
             "summary": "Delivered eBusiness, eLearning, eGovernment portals leveraging leading content/document management, workflow and business process management to customers like Emirates Post, Dubai Aluminium, Ministry of Interior, Emirates Aviation College, and others.",
             "highlights": [
-                "Emirates Post (first Oracle Portal implementation in UAE and first ePost in GCC)",
+                "Emirates Post (first Oracle Portal implementation in UAE and first ePost in GCC).",
                 "Proprietary J2EE Intranet portal for Dubai Aluminium integrating/automating many of their internal processes and calendars.",
                 "Imaging solution and full workflow automation using Oracle technologies for the Ministry of Interior automating all correspondences of 36 departments across UAE.",
                 "Emirates Aviation College (e-Registration & admission system).",
                 "Managed strategic data warehousing implementation for the immigration department to introduce the first centralized DW that supports all entry ports.",
-                "Established AIIM based delivery framework for Enterprise Content Management solutions, which improved the overall quality of our delivery process",
+                "Established AIIM based delivery framework for Enterprise Content Management solutions, which improved the overall quality of our delivery process.",
                 "Supported sales team to achieve over $3M in new sales, through presales activities, RFP response, and negotiation."
             ],
             "location": {
