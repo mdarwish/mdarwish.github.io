@@ -740,7 +740,7 @@ ul {
 /* Add arrows to the right container (pointing left) */
 
 .right::before {
-    content: " ";
+    /*     content: " ";
     height: 0;
     position: absolute;
     top: 22px;
@@ -750,6 +750,10 @@ ul {
     border: medium solid white;
     border-width: 10px 10px 10px 0;
     border-color: transparent white transparent transparent;
+ */
+    background-color: none;
+    border: none;
+    border-radius: 50%;
 }
 
 
@@ -785,7 +789,7 @@ ul {
     }
     /* Make sure that all arrows are pointing leftwards */
     .tl-container::before {
-        left: 60px;
+        left: 0px;
         border: medium solid white;
         border-width: 10px 10px 10px 0;
         border-color: transparent white transparent transparent;
