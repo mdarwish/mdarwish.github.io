@@ -12,7 +12,7 @@
             "postalCode": "N6J 2C7",
             "city": "London",
             "countryCode": "CA",
-            "region": ""
+            "region": "ON"
         },
         "profiles": [{
             "network": "linkedin",
@@ -30,8 +30,9 @@
                 "Contributed to ATM Terminal Software development, deployment, support, and ecosystem.",
                 "Assisted in planning and coordinating work team and led a group of application developers to support customer patches.",
                 "Took an active role in the requirements-gathering and delivery process",
-                "Worked closely with other team members and Project Managers in scrum fashion.",
-                "Coordinated and handled complex application features and technical designs.",
+                "Worked on Diebold Network Solutions aiming deliver unified terminal control and branch connectivity solution for SMB financial clients  in NA with small ATM network requirements.",
+                "Multiple POCs covering product features like animated terminal UI based on Angular JS, Log analysis utility based on ELK stack, DevOps process aiming to improve test coverage, automated testing, PLC source control build automation and others.",
+                "Handled complex application features and technical designs for multiple patches in collaboration with offshore development team in India and PM, business, and QA team in US, covering 24/7 communication span",
                 "Mentored offshore developers and supported local team."
             ],
             "location": {
