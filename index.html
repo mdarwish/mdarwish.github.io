@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.5">
+    <meta name="viewport" content="width=device-width, initial-scale=1.75">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/md5.js"></script>
     <script src="./lib/jquery/dist/jquery.min.js"></script>
@@ -67,7 +67,6 @@
                                 <h3 class="text-bolder name" itemprop="name"> {{name}}</h3>
                                 <h5 class="text-muted" itemprop="jobTitle">{{label}}</h5>
                             </div>
-
                             <div class="detail">
                                 <span class="icon">
                                 <i class="fa fa-lg fa-envelope"></i>
@@ -87,37 +86,36 @@
                             </a>
                             </div>
                             <div class="detail">
-                                <span class="icon">
-                        <i class="fa fa-lg fa-map-marker"></i>
-                      </span>
+                            <span class="icon">
+                                <i class="fa fa-lg fa-map-marker"></i>
+                            </span>
 
-                                <span class="info">
+                        <span class="info">
                           {{location.city}}, {{location.region}},
                           {{location.countryCode}}
                         </span>
-                            </div>
-
+                        </div>
                         </div>
                     </div>
                     <hr>
-
-                    <div class="social-links">
+                    <div class="social-links"  align="center">
                         <a class="social-link" href="{{website}}" target="_blank">
                             <span class="fa fa-rss fa-1x"></span>
                             <span class="social-link-text">{{website}}</span>
                             <span>&nbsp;&nbsp;</span>
                         </a>
-                        <span ng-repeat="network in socialNetworks">
+                    <span ng-repeat="network in socialNetworks">
                     <a class="social-link" href="{{network.url}}" target="_blank">
                         <span class="fa fa-{{network.network}} fa-1x"></span>
                         <span class="social-link-text">{{network.url}}</span>
-                        <span>&nbsp;&nbsp;</span>
                         </a>
-                        </span>
+                    </span>
                     </div>
-
+                    <div class="info" align="center">
+                        <h3 class="title" itemprop="slogan">{{slogan}} </h5>
+                    </div>
                 </div>
-            </div>
+            </div>            
         </section>
         <section class="row">
             <div class=" card-wrapper">

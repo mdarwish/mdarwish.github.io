@@ -34,6 +34,7 @@ visualResume.controller('mainController', function($scope, $sce) {
         $scope.website = basics.website;
         $scope.summary = basics.summary;
         $scope.location = basics.location;
+        $scope.slogan = basics.slogan;
 
         if (data.resume.basics.email != "undefined") {
             $scope.hash = CryptoJS.MD5(data.resume.basics.email.toLowerCase()).toString();
