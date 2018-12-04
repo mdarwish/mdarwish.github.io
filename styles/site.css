@@ -804,3 +804,9 @@ ul {
         left: 0%;
     }
 }
+
+.disclaimer {
+    font-size: 2.0vh;
+    text-align: -webkit-center;
+    color: gray;
+}
