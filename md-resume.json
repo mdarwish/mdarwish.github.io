@@ -28,11 +28,11 @@
             "startDate": "13 Jun 2016",
             "summary": "",
             "highlights": [
-                "Contributed to ATM Terminal Software development, deployment, support, and ecosystem.",
+                "Part of Diebold Network Solutions aiming deliver unified terminal control and branch connectivity solution for SMB financial clients  in NA with standard ATM services.",
+                "Contributed to ATM Terminal Software development, deployment, support, and quality ecosystem.",
                 "Assisted in planning and coordinating work team and led a group of application developers to support customer patches.",
                 "Took an active role in the requirements-gathering and delivery process",
-                "Worked on Diebold Network Solutions aiming deliver unified terminal control and branch connectivity solution for SMB financial clients  in NA with small ATM network requirements.",
-                "Multiple POCs covering product features like animated terminal UI based on Angular JS, Log analysis utility based on ELK stack, DevOps process aiming to improve test coverage, automated testing, PLC source control build automation and others.",
+                "Multiple POCs covering product features like animated terminal UI using modern Angular JS, Log analytics using ELK stack, DevOps process aiming to improve test coverage, automated testing, PLC source control build automation and others.",
                 "Handled complex application features and technical designs for multiple patches in collaboration with offshore development team in India and PM, business, and QA team in US, covering 24/7 communication span",
                 "Mentored offshore developers and supported local team."
             ],
@@ -46,7 +46,7 @@
             "endDate": "28 Nov 2017",
             "mainSkills": ["ATM Software", "Software Development", "Software Testing"],
             "softSkills": ["Problem Solving", "Fast Learning"],
-            "techSkills": ["TOGAF", "ITIL", "Visual Studio", "HTML", "Javascrip", "CSS", "Angular", "C++", "Elasticsearch", "VMWare", "Jenkins", "PTC", "JIRA", "GIT"],
+            "techSkills": ["TOGAF", "ITIL", "Visual Studio", ".Net", "HTML", "Javascrip", "CSS", "Angular", "C++", "Elasticsearch", "VMWare", "Jenkins", "PTC", "JIRA", "GIT"],
             "projects": [{
                     "name": "Network Solutions Terminal Software Product Development and Support",
                     "startDate": "Jun 2016-13",
@@ -282,7 +282,7 @@
                 "countryCode": "AE",
                 "region": ""
             },
-            "endDate": "01 Nov 2007",
+            "endDate": "31 Nov 2007",
             "mainSkills": ["Project Management", "Business Analysis", "Presales", "Business Planning"],
             "softSkills": ["Leadership", "Critical Thinking", "Presentation", "Communication", "Negotiation", "Social Networking"],
             "techSkills": ["PMP", "Excel", "Visio", "MS Project", "SWIFT", ".Net", "C#", "Accurate Reconciliation/Workflow & Dashboard", "Oracle RDBMS", "BizTalk", "SQL Server", "VMWare"],
@@ -545,6 +545,7 @@
             "level": "Advanced",
             "keywords": [
                 "TOGAF",
+                "Zachman",
                 "Oracle Enterprise Reference Architecture",
                 "Solution Architecture",
                 "Architecture Patterns",
