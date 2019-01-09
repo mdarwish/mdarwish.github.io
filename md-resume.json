@@ -51,7 +51,7 @@
                     "name": "Network Solutions Terminal Software Product Development and Support",
                     "startDate": "Jun 2016-13",
                     "languages": ["C++", "Javascript", "HTML", "CSS", "JSON", "ISO-8583"],
-                    "tools": ["Visual Studio", "WebStorm", "PTC", "Eclipse", "Virtual Box"],
+                    "tools": ["Visual Studio", "WebStorm", "PTC", "Eclipse", "Virtual Box", "Selenium"],
                     "capacities": ["Developer"]
                 },
                 {
@@ -90,7 +90,7 @@
                     "name": "WSIB Web Renewal",
                     "startDate": "01 Sep 2013",
                     "languages": ["Java", "Javascript", "HTML", "JSF", "JSON", "SQL"],
-                    "tools": ["Oracle WebCenter", "JDeveloper", "ADF", "Oracle Linux", "Weblogic", "Virtual Box", "Excel", "Visio"],
+                    "tools": ["Oracle WebCenter", "JDeveloper", "ADF", "Oracle Linux", "Weblogic", "Virtual Box", "Excel", "Visio", "Selenium"],
                     "capacities": ["Architect", "Developer"]
                 },
                 {
@@ -104,7 +104,7 @@
                     "name": "AVIVA Online Quote",
                     "startDate": "01 Oct 2014",
                     "languages": ["Java", "Javascript", "JSON", "HTML"],
-                    "tools": ["Eclipse", "Spring Framework", "Maven", "Jenkins", "GIT", "Virtual Box", "Excel", "Visio"],
+                    "tools": ["Eclipse", "Spring Framework", "Maven", "Jenkins", "GIT", "Virtual Box", "Excel", "Visio", "Selenium"],
                     "capacities": ["Analyst"]
                 },
                 {
@@ -118,7 +118,7 @@
                     "name": "Sunlife Annuity Renewal",
                     "startDate": "01 Nov 2015",
                     "languages": ["Java", "Javascript", "HTML", "CSS", "JSON", "SQL"],
-                    "tools": ["Eclipse", "Weblogic", "Excel", "Visio"],
+                    "tools": ["Eclipse", "Weblogic", "Excel", "Visio", "Selenium"],
                     "capacities": ["Architect", "Analyst"]
                 }
             ]
@@ -152,7 +152,7 @@
                     "name": "City of Surry Portal Responsive Transformation",
                     "startDate": "22 Jul 2012",
                     "languages": ["HTML", "CSS", "Javascript", "JSON", "NoSQL"],
-                    "tools": ["Google Analytics", "Excel", "Visio"],
+                    "tools": ["Google Analytics", "Excel", "Visio", "Selenium"],
                     "capacities": ["Manager"]
                 },
                 {
