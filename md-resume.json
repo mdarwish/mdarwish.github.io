@@ -554,7 +554,7 @@
         },
         {
             "name": "Software as a Service",
-            "level": "Intermediate",
+            "level": "Advanced",
             "keywords": [
                 "Cloud",
                 "Messaging",
@@ -578,7 +578,7 @@
         },
         {
             "name": "Data Science",
-            "level": "Beginner",
+            "level": "Intermediate",
             "keywords": [
                 "Data Visualization",
                 "Data Parsing/Mapping",
